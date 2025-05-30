@@ -1,11 +1,7 @@
 const users = [
   {
-    email: "user1",
-    passwordHash: "5994471abb01112afcc18159f6cc74b4f511b99806da59b3caf5a9c173cacfc5" // hash של 'password'
-  },
-  {
-    email: "user2",
-    passwordHash: "0c7489c79a5ab44c3f569653b23a0a4a5c73d805ea5ab1e2db410417560add81" // hash של 'password'
+    email: "user3",
+    passwordHash: "137964fec3ecd2fbffd7e5518a2948bc17daa584081c318d0a7cc6531eacc7c9" // hash של 'password'
   }
 ];
 
