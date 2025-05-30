@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="he">
+<head>
+  <meta charset="UTF-8">
+  <title>סיכומים</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body class="summary-mode">
+  <div class="content">
+    <h2>בחר סיכום:</h2>
+    <div id="summaryButtons">
+      <button onclick="showSummary(1)">תורת מחירים ב</button>
+      <button onclick="showSummary(2)">מאקרו כלכלה ב</button>
+      <button onclick="showSummary(3)">חשבונאות ניהולית</button>
+      <button onclick="showSummary(4)">אקונומטריקה</button>
+    </div>
+
+    <button id="backButton" onclick="goBack()" style="display: none;">חזור</button>
+
+    <div id="summaryImage" class="image-container"></div>
+  </div>
+
+  <div id="blockScreen" class="block-screen">בבקשה לא לצלם מסך באתר זה</div>
+
+  <script src="summaries.js"></script>
+</body>
+</html>
