@@ -3,7 +3,11 @@
 <head>
   <meta charset="UTF-8">
   <title>התחברות</title>
-  <link rel="stylesheet" href="style.css">
+  <script>
+    const script = document.createElement('script');
+    script.src = 'main.js?v=' + Date.now();
+    document.head.appendChild(script);
+  </script>
 </head>
 <body>
   <div class="login-box">
