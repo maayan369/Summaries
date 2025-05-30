@@ -1,15 +1,7 @@
 const users = [
   {
-    email: "maayan",
-    passwordHash: "75e991e677b7e70cee5fb2517fd1a24b667048c5084fff25f745913c569b0683" // hash של 'password'
-  },
-  {
-    email: "Malya20162016@gmail.com",
-    passwordHash: "b2f44d2f252af1f2325c9e6f0fa6243705994557b5629edd3c9cccb5095c1d08" // hash של 'password'
-  },
-  {
-    email: "Malya1",
-    passwordHash: "b2f44d2f252af1f2325c9e6f0fa6243705994557b5629edd3c9cccb5095c1d08" // hash של 'password'
+    email: "user1",
+    passwordHash: "5994471abb01112afcc18159f6cc74b4f511b99806da59b3caf5a9c173cacfc5" // hash של 'password'
   }
 ];
 
