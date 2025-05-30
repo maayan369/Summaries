@@ -1,6 +1,6 @@
 const users = [
   {
-    email: "ymaayan2003@gmail.com",
+    email: "maayanyaacov",
     passwordHash: "4f8b3412ec8d76fcb5ab304378cf5d9b6838528d13e5b1e96b305208d9d9e383" // hash של 'password'
   }
 ];
